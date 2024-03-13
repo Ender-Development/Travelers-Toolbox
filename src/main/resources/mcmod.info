@@ -1,16 +1,18 @@
 [
-{
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+  {
+    "modid": "travelerstoolbox",
+    "name": "Traveler's Toolbox",
+    "description": "A spiritual successor to Adventure's Toolbox.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Ender-Development"
+    ],
+    "credits": "MasterEnderman, Klebe0815",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
 ]
